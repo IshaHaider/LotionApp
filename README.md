@@ -1,5 +1,7 @@
 # Lotion Plus
 
+Netflify Link: [https://650359b75923cf193b85ac19--preeminent-pony-526e04.netlify.app/](https://650359b75923cf193b85ac19--preeminent-pony-526e04.netlify.app/)
+
 In this assignment, you will create a backend on AWS for the Lotion app you created in a previous assignment. You will use Terraform for creating resources on AWS.
 
 You may use the front-end you built in the previous assignment here if it works properly. If not, you need to make sure it does by the time you demo your work. This could be a group assignment (groups of maximum 2 students). Please read the [Group Assignment](https://github.com/ucalgary-ensf381/lotion-plus#couple-group-assignment) part carefully so you won't lose any points.
